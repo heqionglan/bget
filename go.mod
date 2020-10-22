@@ -1,4 +1,4 @@
-module github.com/openanno/bget
+module github.com/clindet/bget
 
 go 1.14
 
